@@ -1,5 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+𝗛𝗔𝗣𝗣𝗬+𝗡𝗘𝗪+𝗬𝗘𝗔𝗥+❷⓿❷❹+🧋">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">
+    ─「 𝐒ᴀᴘɴᴀ 𝘅 𝐌ᴜsɪᴄ 」─
+
+</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+sᴀᴘɴᴀ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+ᚐ⎯‌꯭꯭꯭⏤‌⁪⁬⁮⁮⁮꯭꯭꯭𝐃ғsᚐ꯭꯭+🇨𝐡𝐢𝐧𝐧𝐚)]
 
 
 <h2 align="center">
